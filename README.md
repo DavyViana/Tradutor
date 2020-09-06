@@ -5,7 +5,7 @@
     - Retornar a String traduzida
 > Status do Projeto: Em desenvolvimento :warning:
 
-##Como rodar o tradutor
+## Como rodar o tradutor
 
 -No git bash, clone o projeto:
 
@@ -33,7 +33,7 @@
 - HTML
 - CSS
 - BootStrap
-- Spring
+- Spring 
 
 ## Proximos passos
 - Melhorar o FrontEnd
