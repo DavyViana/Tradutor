@@ -50,81 +50,81 @@ public class TraducaoService {
     public String comparaPalavras(String traducao){
     //Returns para "Oi tudo bem?":
 	if(oitd.equalsIgnoreCase(traducao)){
-		return "Oi, tudo bem?";
+		return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Oi, tudo bem?";
 	}else if(oitd2.equalsIgnoreCase(traducao)){
-		return "Oi, tudo bem?";
+		return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Oi, tudo bem?";
     }else if(oitd3.equalsIgnoreCase(traducao)){
-        return "Oi, tudo bem?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Oi, tudo bem?";
     }
     //Returns para "Tudo bem?":
     else if(tdbm1.equalsIgnoreCase(traducao)){
-        return "Tudo bem?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo bem?";
     }else if(tdbm2.equalsIgnoreCase(traducao)){
-        return "Tudo bem?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo bem?";
     }else if(tdbm3.equalsIgnoreCase(traducao)){
-        return "Tudo bem?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo bem?";
     }else if(tdbm4.equalsIgnoreCase(traducao)){
-        return "Tudo bem?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo bem?";
     }
     //Returns para "Tudo ok?":
     else if(tdok1.equalsIgnoreCase(traducao)){
-        return "Tudo ok?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo ok?";
     }else if(tdok2.equalsIgnoreCase(traducao)){
-        return "Tudo ok?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo ok?";
     }
     //Returns para "Que dia é hoje?":
     else if(qdia1.equalsIgnoreCase(traducao)){
-        return "Que dia é hoje?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Que dia é hoje?";
     }else if(qdia2.equalsIgnoreCase(traducao)){
-        return "Que dia é hoje?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Que dia é hoje?";
     }else if(qdia3.equalsIgnoreCase(traducao)){
-        return "Que dia é hoje?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Que dia é hoje?";
     }else if(qdia4.equalsIgnoreCase(traducao)){
-        return "Que dia é hoje?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Que dia é hoje?";
     }else if(qdia5.equalsIgnoreCase(traducao)){
-        return "Que dia é hoje?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Que dia é hoje?";
     }else if(qdia6.equalsIgnoreCase(traducao)){
-        return "Que dia é hoje?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Que dia é hoje?";
     }
     //Returns para "Quanto custa?":
     else if(qtcst1.equalsIgnoreCase(traducao)){
-        return "Quanto custa?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Quanto custa?";
     }else if(qtcst2.equalsIgnoreCase(traducao)){
-        return "Quanto custa?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Quanto custa?";
     }
     //Returns para "Quanto vale?":
     else if(qtvl1.equalsIgnoreCase(traducao)){
-        return "Quanto vale?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Quanto vale?";
     }else if(qtvl2.equalsIgnoreCase(traducao)){
-        return "Quanto vale?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Quanto vale?";
     }
     //Returns para "Quando será enviado?":
     else if(qnd1.equalsIgnoreCase(traducao)){
-        return "Quando será enviado?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Quando será enviado?";
     }else if(qnd2.equalsIgnoreCase(traducao)){
-        return "Quando será enviado?";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Quando será enviado?";
     }
     //Returns para "Obrigado":
     else if(obg1.equalsIgnoreCase(traducao)){
-        return "Obrigado";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Obrigado";
     }else if(obg2.equalsIgnoreCase(traducao)){
-        return "Obrigado";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Obrigado";
     }
     //Returns para "Beleza":
     else if(blz1.equalsIgnoreCase(traducao)){
-        return "Beleza";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Beleza";
     }else if(blz2.equalsIgnoreCase(traducao)){
-        return "Beleza";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Beleza";
     }
     //Returns para "Tudo beleza":
     else if(tdblz1.equalsIgnoreCase(traducao)){
-        return "Tudo beleza";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo beleza";
     }else if(tdblz2.equalsIgnoreCase(traducao)){
-        return "Tudo beleza";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo beleza";
     }else if(tdblz3.equalsIgnoreCase(traducao)){
-        return "Tudo beleza";
+        return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\"> <p id=\"retorno\">Tudo beleza";
     }
     //Returns para caso não seja digitado algo no sistema
-    return "você digitou algo que não é traduzido pelo sistema";
+    return "<link rel=\"stylesheet\" href=\"/CSS/Form.css\"> <img width=\"300\" height=\"212\"  class=\"logo\" src=\"/IMG/Logo.png\">  <p id=\"retorno\">Você digitou algo que não é traduzido pelo sistema";
 }
 }
