@@ -14,12 +14,12 @@ public class TradutorController {
     @GetMapping("/")
     public String tradutorInicial(){
       return "tradutorInicial";}
-    //aqui é criado o mapeamento para o sistema receber a mensagem e processar/traduzir ela 
+    //Aqui é criado o mapeamento para o sistema receber a mensagem e processar/traduzir ela 
     @PostMapping(path="/insere") // Map ONLY POST Requests
     public @ResponseBody String addNewTraducao (
             @RequestParam String traducao
         ) {
-            Traducao t = new Traducao();
+            TraducaoService t = new TraducaoService();
             return t.comparaPalavras(traducao) ;
         }
         }

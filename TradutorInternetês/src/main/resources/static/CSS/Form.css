@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(64, 84, 178);
+    color: rgb(64, 84, 178)
+}
+.titulo{
+    margin-top: 20px;
+    color: rgb(64, 84, 178);
+    font-size: 60px;
+    font-family: inter;
+    font-weight: 900;
+}
+#imagem{
+    text-align:center;
+    background-color: rgb(64, 84, 178);
+}
+#form{
+    margin-top: 20px;
+	color: white;
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 900;
+    text-align: center;
+}
+.titulohome{
+    text-align:center;
+    padding-top: 22px;
+    color: white;
+    font-size: 45px;
+    font-family: inter;
+    font-weight: 900;
+}
+.inputTexto{
+    margin-bottom: 20px;
+
+}
