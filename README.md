@@ -7,26 +7,26 @@
 
 ##Como rodar o tradutor
 
-No git bash, clone o projeto:
+-No git bash, clone o projeto:
 
-git clone https://github.com/DavyViana/Tradutor.git
+-git clone https://github.com/DavyViana/Tradutor.git
 
-Entre na pasta clonada
+-Entre na pasta clonada
 
-cd Tradutor
-cd TradutorInternetês
+-cd Tradutor
+-cd TradutorInternetês
 
-Apos isso, entre na sua IDE, abra o terminal dela e rode com o seguinte codigo:
+-Apos isso, entre na sua IDE, abra o terminal dela e rode com o seguinte codigo:
 
-./mvnw spring-boot:run
+-./mvnw spring-boot:run
 
-Pronto, o programa está rodando, agora vamos acessar ele:
+-Pronto, o programa está rodando, agora vamos acessar ele:
 
-Entre no seu navegador e escreva:
+-Entre no seu navegador e escreva:
 
-localhost:8080
+-localhost:8080
 
-Pronto, você está acessando o tradutor
+-Pronto, você está acessando o tradutor
 
 ## Linguagens e libs utilizadas :books:
 - Java 14
