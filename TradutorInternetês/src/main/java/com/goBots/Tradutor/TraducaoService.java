@@ -1,6 +1,6 @@
 package com.goBots.Tradutor;
 
-public class Traducao {
+public class TraducaoService {
     
     /***
      * Aqui sao criadas todas as Strings de digitação em internetês

@@ -1,16 +1,39 @@
 <!DOCTYPE HTML><html>
-
 <head>
     <title>Tradução</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!--Google Fonts - font inter all-->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <!--CSS-->
+    <link rel="stylesheet" href="/CSS/Form.css">
 </head>
-
 <body>
-    <h1>Traduza sua mensagem:</h1>
-    <form action="/insere" method="post">
-        <label for="traducao">Texto:</label>
-        <input type="text" id="traducao" name="traducao"><br><br>
-        <p><input type="submit" value="Enviar" /> <input type="reset" value="Limpar" /></p>
+    <!--Aqui é linkado a imagem da logo da GoBots-->
+    <div id="imagem">
+        <img width="300" height="212"  class="logo" src="/IMG/Logo.png">
+    </div>
+    <!--Aqui é criado e organizado o texto-->
+    <div class="container">
+        <div>   
+            <p class="titulohome">Faça sua tradução</p>
+      </div>
+    </div>
+    <!--Aqui é criado o formulario e a ação que ele faz se comunicando com o java--> 
+    <div class="container">
+    <form id="form" action="/insere" method="post">
+        <div class="form-group">
+            <div style="text-align:center">
+            <label class="form-label" for="nome">Texto:</label>
+        </div>
+        <!--Aqui é criado o botão de enviar-->
+        <input class="inputTexto" id="traducao" name="traducao" required><br>
+        <div style="text-align:center">
+            <input class="botaoslide btn btn-light" type="submit" value="Enviar">
+        </div>
     </form>
 </body>
 </html>
