@@ -5,7 +5,7 @@
     - Retornar a String traduzida
 > Status do Projeto: Em desenvolvimento :warning:
 
-##Como rodar o tradutor
+## Como rodar o tradutor
 
 -No git bash, clone o projeto:
 
